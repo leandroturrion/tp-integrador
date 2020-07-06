@@ -1,0 +1,23 @@
+{
+  "name": "tp-integrador",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leandro Uriel Turrion",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "description": "trabajo concesionaria",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrouriell/tpconcesionaria.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leandrouriell/tpconcesionaria/issues"
+  },
+  "homepage": "https://github.com/leandrouriell/tpconcesionaria#readme"
+}
